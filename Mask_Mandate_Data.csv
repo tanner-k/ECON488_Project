@@ -1,0 +1,2549 @@
+﻿State,Mask Mandate,Week Number
+Alabama,0,1
+Alabama,0,2
+Alabama,0,3
+Alabama,0,4
+Alabama,0,5
+Alabama,0,6
+Alabama,0,7
+Alabama,0,8
+Alabama,0,9
+Alabama,0,10
+Alabama,0,11
+Alabama,0,12
+Alabama,0,13
+Alabama,0,14
+Alabama,0,15
+Alabama,0,16
+Alabama,0,17
+Alabama,0,18
+Alabama,0,19
+Alabama,0,20
+Alabama,0,21
+Alabama,0,22
+Alabama,0,23
+Alabama,0,24
+Alabama,0,25
+Alabama,0,26
+Alabama,0,27
+Alabama,0,28
+Alabama,1,29
+Alabama,0,30
+Alabama,0,31
+Alabama,0,32
+Alabama,0,33
+Alabama,0,34
+Alabama,0,35
+Alabama,0,36
+Alabama,0,37
+Alabama,0,38
+Alabama,0,39
+Alabama,0,40
+Alabama,0,41
+Alabama,0,42
+Alabama,0,43
+Alabama,0,44
+Alabama,0,45
+Alabama,0,46
+Alabama,0,47
+Alabama,0,48
+Alabama,0,49
+Alabama,0,50
+Alabama,0,51
+Alabama,0,52
+Arizona,0,1
+Arizona,0,2
+Arizona,0,3
+Arizona,0,4
+Arizona,0,5
+Arizona,0,6
+Arizona,0,7
+Arizona,0,8
+Arizona,0,9
+Arizona,0,10
+Arizona,0,11
+Arizona,0,12
+Arizona,0,13
+Arizona,0,14
+Arizona,0,15
+Arizona,0,16
+Arizona,0,17
+Arizona,0,18
+Arizona,0,19
+Arizona,0,20
+Arizona,0,21
+Arizona,0,22
+Arizona,0,23
+Arizona,0,24
+Arizona,0,25
+Arizona,0,26
+Arizona,0,27
+Arizona,0,28
+Arizona,0,29
+Arizona,0,30
+Arizona,0,31
+Arizona,0,32
+Arizona,0,33
+Arizona,0,34
+Arizona,0,35
+Arizona,0,36
+Arizona,0,37
+Arizona,0,38
+Arizona,0,39
+Arizona,0,40
+Arizona,0,41
+Arizona,0,42
+Arizona,0,43
+Arizona,0,44
+Arizona,0,45
+Arizona,0,46
+Arizona,0,47
+Arizona,0,48
+Arizona,0,49
+Arizona,0,50
+Arizona,0,51
+Arizona,0,52
+Arkansas,0,1
+Arkansas,0,2
+Arkansas,0,3
+Arkansas,0,4
+Arkansas,0,5
+Arkansas,0,6
+Arkansas,0,7
+Arkansas,0,8
+Arkansas,0,9
+Arkansas,0,10
+Arkansas,0,11
+Arkansas,0,12
+Arkansas,0,13
+Arkansas,0,14
+Arkansas,0,15
+Arkansas,0,16
+Arkansas,0,17
+Arkansas,0,18
+Arkansas,0,19
+Arkansas,0,20
+Arkansas,0,21
+Arkansas,0,22
+Arkansas,0,23
+Arkansas,0,24
+Arkansas,0,25
+Arkansas,0,26
+Arkansas,0,27
+Arkansas,0,28
+Arkansas,0,29
+Arkansas,1,30
+Arkansas,0,31
+Arkansas,0,32
+Arkansas,0,33
+Arkansas,0,34
+Arkansas,0,35
+Arkansas,0,36
+Arkansas,0,37
+Arkansas,0,38
+Arkansas,0,39
+Arkansas,0,40
+Arkansas,0,41
+Arkansas,0,42
+Arkansas,0,43
+Arkansas,0,44
+Arkansas,0,45
+Arkansas,0,46
+Arkansas,0,47
+Arkansas,0,48
+Arkansas,0,49
+Arkansas,0,50
+Arkansas,0,51
+Arkansas,0,52
+California,0,1
+California,0,2
+California,0,3
+California,0,4
+California,0,5
+California,0,6
+California,0,7
+California,0,8
+California,0,9
+California,0,10
+California,0,11
+California,0,12
+California,0,13
+California,0,14
+California,0,15
+California,0,16
+California,0,17
+California,0,18
+California,0,19
+California,0,20
+California,0,21
+California,0,22
+California,0,23
+California,0,24
+California,1,25
+California,0,26
+California,0,27
+California,0,28
+California,0,29
+California,0,30
+California,0,31
+California,0,32
+California,0,33
+California,0,34
+California,0,35
+California,0,36
+California,0,37
+California,0,38
+California,0,39
+California,0,40
+California,0,41
+California,0,42
+California,0,43
+California,0,44
+California,0,45
+California,0,46
+California,0,47
+California,0,48
+California,0,49
+California,0,50
+California,0,51
+California,0,52
+Colorado,0,1
+Colorado,0,2
+Colorado,0,3
+Colorado,0,4
+Colorado,0,5
+Colorado,0,6
+Colorado,0,7
+Colorado,0,8
+Colorado,0,9
+Colorado,0,10
+Colorado,0,11
+Colorado,0,12
+Colorado,0,13
+Colorado,0,14
+Colorado,0,15
+Colorado,0,16
+Colorado,0,17
+Colorado,0,18
+Colorado,0,19
+Colorado,0,20
+Colorado,0,21
+Colorado,0,22
+Colorado,0,23
+Colorado,0,24
+Colorado,0,25
+Colorado,0,26
+Colorado,0,27
+Colorado,0,28
+Colorado,1,29
+Colorado,0,30
+Colorado,0,31
+Colorado,0,32
+Colorado,0,33
+Colorado,0,34
+Colorado,0,35
+Colorado,0,36
+Colorado,0,37
+Colorado,0,38
+Colorado,0,39
+Colorado,0,40
+Colorado,0,41
+Colorado,0,42
+Colorado,0,43
+Colorado,0,44
+Colorado,0,45
+Colorado,0,46
+Colorado,0,47
+Colorado,0,48
+Colorado,0,49
+Colorado,0,50
+Colorado,0,51
+Colorado,0,52
+Connecticut,0,1
+Connecticut,0,2
+Connecticut,0,3
+Connecticut,0,4
+Connecticut,0,5
+Connecticut,0,6
+Connecticut,0,7
+Connecticut,0,8
+Connecticut,0,9
+Connecticut,0,10
+Connecticut,0,11
+Connecticut,0,12
+Connecticut,0,13
+Connecticut,0,14
+Connecticut,0,15
+Connecticut,1,16
+Connecticut,0,17
+Connecticut,0,18
+Connecticut,0,19
+Connecticut,0,20
+Connecticut,0,21
+Connecticut,0,22
+Connecticut,0,23
+Connecticut,0,24
+Connecticut,0,25
+Connecticut,0,26
+Connecticut,0,27
+Connecticut,0,28
+Connecticut,0,29
+Connecticut,0,30
+Connecticut,0,31
+Connecticut,0,32
+Connecticut,0,33
+Connecticut,0,34
+Connecticut,0,35
+Connecticut,0,36
+Connecticut,0,37
+Connecticut,0,38
+Connecticut,0,39
+Connecticut,0,40
+Connecticut,0,41
+Connecticut,0,42
+Connecticut,0,43
+Connecticut,0,44
+Connecticut,0,45
+Connecticut,0,46
+Connecticut,0,47
+Connecticut,0,48
+Connecticut,0,49
+Connecticut,0,50
+Connecticut,0,51
+Connecticut,0,52
+Delaware,0,1
+Delaware,0,2
+Delaware,0,3
+Delaware,0,4
+Delaware,0,5
+Delaware,0,6
+Delaware,0,7
+Delaware,0,8
+Delaware,0,9
+Delaware,0,10
+Delaware,0,11
+Delaware,0,12
+Delaware,0,13
+Delaware,0,14
+Delaware,0,15
+Delaware,0,16
+Delaware,0,17
+Delaware,1,18
+Delaware,0,19
+Delaware,0,20
+Delaware,0,21
+Delaware,0,22
+Delaware,0,23
+Delaware,0,24
+Delaware,0,25
+Delaware,0,26
+Delaware,0,27
+Delaware,0,28
+Delaware,0,29
+Delaware,0,30
+Delaware,0,31
+Delaware,0,32
+Delaware,0,33
+Delaware,0,34
+Delaware,0,35
+Delaware,0,36
+Delaware,0,37
+Delaware,0,38
+Delaware,0,39
+Delaware,0,40
+Delaware,0,41
+Delaware,0,42
+Delaware,0,43
+Delaware,0,44
+Delaware,0,45
+Delaware,0,46
+Delaware,0,47
+Delaware,0,48
+Delaware,0,49
+Delaware,0,50
+Delaware,0,51
+Delaware,0,52
+District of Columbia,0,1
+District of Columbia,0,2
+District of Columbia,0,3
+District of Columbia,0,4
+District of Columbia,0,5
+District of Columbia,0,6
+District of Columbia,0,7
+District of Columbia,0,8
+District of Columbia,0,9
+District of Columbia,0,10
+District of Columbia,0,11
+District of Columbia,0,12
+District of Columbia,0,13
+District of Columbia,0,14
+District of Columbia,0,15
+District of Columbia,0,16
+District of Columbia,0,17
+District of Columbia,0,18
+District of Columbia,0,19
+District of Columbia,0,20
+District of Columbia,0,21
+District of Columbia,0,22
+District of Columbia,0,23
+District of Columbia,0,24
+District of Columbia,0,25
+District of Columbia,0,26
+District of Columbia,0,27
+District of Columbia,0,28
+District of Columbia,0,29
+District of Columbia,1,30
+District of Columbia,0,31
+District of Columbia,0,32
+District of Columbia,0,33
+District of Columbia,0,34
+District of Columbia,0,35
+District of Columbia,0,36
+District of Columbia,0,37
+District of Columbia,0,38
+District of Columbia,0,39
+District of Columbia,0,40
+District of Columbia,0,41
+District of Columbia,0,42
+District of Columbia,0,43
+District of Columbia,0,44
+District of Columbia,0,45
+District of Columbia,0,46
+District of Columbia,0,47
+District of Columbia,0,48
+District of Columbia,0,49
+District of Columbia,0,50
+District of Columbia,0,51
+District of Columbia,0,52
+Florida,0,1
+Florida,0,2
+Florida,0,3
+Florida,0,4
+Florida,0,5
+Florida,0,6
+Florida,0,7
+Florida,0,8
+Florida,0,9
+Florida,0,10
+Florida,0,11
+Florida,0,12
+Florida,0,13
+Florida,0,14
+Florida,0,15
+Florida,0,16
+Florida,0,17
+Florida,0,18
+Florida,0,19
+Florida,0,20
+Florida,0,21
+Florida,0,22
+Florida,0,23
+Florida,0,24
+Florida,0,25
+Florida,0,26
+Florida,0,27
+Florida,0,28
+Florida,0,29
+Florida,0,30
+Florida,0,31
+Florida,0,32
+Florida,0,33
+Florida,0,34
+Florida,0,35
+Florida,0,36
+Florida,0,37
+Florida,0,38
+Florida,0,39
+Florida,0,40
+Florida,0,41
+Florida,0,42
+Florida,0,43
+Florida,0,44
+Florida,0,45
+Florida,0,46
+Florida,0,47
+Florida,0,48
+Florida,0,49
+Florida,0,50
+Florida,0,51
+Florida,0,52
+Georgia,0,1
+Georgia,0,2
+Georgia,0,3
+Georgia,0,4
+Georgia,0,5
+Georgia,0,6
+Georgia,0,7
+Georgia,0,8
+Georgia,0,9
+Georgia,0,10
+Georgia,0,11
+Georgia,0,12
+Georgia,0,13
+Georgia,0,14
+Georgia,0,15
+Georgia,0,16
+Georgia,0,17
+Georgia,0,18
+Georgia,0,19
+Georgia,0,20
+Georgia,0,21
+Georgia,0,22
+Georgia,0,23
+Georgia,0,24
+Georgia,0,25
+Georgia,0,26
+Georgia,0,27
+Georgia,0,28
+Georgia,0,29
+Georgia,0,30
+Georgia,0,31
+Georgia,0,32
+Georgia,0,33
+Georgia,0,34
+Georgia,0,35
+Georgia,0,36
+Georgia,0,37
+Georgia,0,38
+Georgia,0,39
+Georgia,0,40
+Georgia,0,41
+Georgia,0,42
+Georgia,0,43
+Georgia,0,44
+Georgia,0,45
+Georgia,0,46
+Georgia,0,47
+Georgia,0,48
+Georgia,0,49
+Georgia,0,50
+Georgia,0,51
+Georgia,0,52
+Idaho,0,1
+Idaho,0,2
+Idaho,0,3
+Idaho,0,4
+Idaho,0,5
+Idaho,0,6
+Idaho,0,7
+Idaho,0,8
+Idaho,0,9
+Idaho,0,10
+Idaho,0,11
+Idaho,0,12
+Idaho,0,13
+Idaho,0,14
+Idaho,0,15
+Idaho,0,16
+Idaho,0,17
+Idaho,0,18
+Idaho,0,19
+Idaho,0,20
+Idaho,0,21
+Idaho,0,22
+Idaho,0,23
+Idaho,0,24
+Idaho,0,25
+Idaho,0,26
+Idaho,0,27
+Idaho,0,28
+Idaho,0,29
+Idaho,0,30
+Idaho,0,31
+Idaho,0,32
+Idaho,0,33
+Idaho,0,34
+Idaho,0,35
+Idaho,0,36
+Idaho,0,37
+Idaho,0,38
+Idaho,0,39
+Idaho,0,40
+Idaho,0,41
+Idaho,0,42
+Idaho,0,43
+Idaho,0,44
+Idaho,0,45
+Idaho,0,46
+Idaho,0,47
+Idaho,0,48
+Idaho,0,49
+Idaho,0,50
+Idaho,0,51
+Idaho,0,52
+Illinois,0,1
+Illinois,0,2
+Illinois,0,3
+Illinois,0,4
+Illinois,0,5
+Illinois,0,6
+Illinois,0,7
+Illinois,0,8
+Illinois,0,9
+Illinois,0,10
+Illinois,0,11
+Illinois,0,12
+Illinois,0,13
+Illinois,0,14
+Illinois,0,15
+Illinois,0,16
+Illinois,0,17
+Illinois,1,18
+Illinois,0,19
+Illinois,0,20
+Illinois,0,21
+Illinois,0,22
+Illinois,0,23
+Illinois,0,24
+Illinois,0,25
+Illinois,0,26
+Illinois,0,27
+Illinois,0,28
+Illinois,0,29
+Illinois,0,30
+Illinois,0,31
+Illinois,0,32
+Illinois,0,33
+Illinois,0,34
+Illinois,0,35
+Illinois,0,36
+Illinois,0,37
+Illinois,0,38
+Illinois,0,39
+Illinois,0,40
+Illinois,0,41
+Illinois,0,42
+Illinois,0,43
+Illinois,0,44
+Illinois,0,45
+Illinois,0,46
+Illinois,0,47
+Illinois,0,48
+Illinois,0,49
+Illinois,0,50
+Illinois,0,51
+Illinois,0,52
+Indiana,0,1
+Indiana,0,2
+Indiana,0,3
+Indiana,0,4
+Indiana,0,5
+Indiana,0,6
+Indiana,0,7
+Indiana,0,8
+Indiana,0,9
+Indiana,0,10
+Indiana,0,11
+Indiana,0,12
+Indiana,0,13
+Indiana,0,14
+Indiana,0,15
+Indiana,0,16
+Indiana,0,17
+Indiana,0,18
+Indiana,0,19
+Indiana,0,20
+Indiana,0,21
+Indiana,0,22
+Indiana,0,23
+Indiana,0,24
+Indiana,0,25
+Indiana,0,26
+Indiana,0,27
+Indiana,0,28
+Indiana,0,29
+Indiana,0,30
+Indiana,1,31
+Indiana,0,32
+Indiana,0,33
+Indiana,0,34
+Indiana,0,35
+Indiana,0,36
+Indiana,0,37
+Indiana,0,38
+Indiana,0,39
+Indiana,0,40
+Indiana,0,41
+Indiana,0,42
+Indiana,0,43
+Indiana,0,44
+Indiana,0,45
+Indiana,0,46
+Indiana,0,47
+Indiana,0,48
+Indiana,0,49
+Indiana,0,50
+Indiana,0,51
+Indiana,0,52
+Iowa,0,1
+Iowa,0,2
+Iowa,0,3
+Iowa,0,4
+Iowa,0,5
+Iowa,0,6
+Iowa,0,7
+Iowa,0,8
+Iowa,0,9
+Iowa,0,10
+Iowa,0,11
+Iowa,0,12
+Iowa,0,13
+Iowa,0,14
+Iowa,0,15
+Iowa,0,16
+Iowa,0,17
+Iowa,0,18
+Iowa,0,19
+Iowa,0,20
+Iowa,0,21
+Iowa,0,22
+Iowa,0,23
+Iowa,0,24
+Iowa,0,25
+Iowa,0,26
+Iowa,0,27
+Iowa,0,28
+Iowa,0,29
+Iowa,0,30
+Iowa,0,31
+Iowa,0,32
+Iowa,0,33
+Iowa,0,34
+Iowa,0,35
+Iowa,0,36
+Iowa,0,37
+Iowa,0,38
+Iowa,0,39
+Iowa,0,40
+Iowa,0,41
+Iowa,0,42
+Iowa,0,43
+Iowa,0,44
+Iowa,0,45
+Iowa,0,46
+Iowa,0,47
+Iowa,0,48
+Iowa,0,49
+Iowa,0,50
+Iowa,0,51
+Iowa,0,52
+Kansas,0,1
+Kansas,0,2
+Kansas,0,3
+Kansas,0,4
+Kansas,0,5
+Kansas,0,6
+Kansas,0,7
+Kansas,0,8
+Kansas,0,9
+Kansas,0,10
+Kansas,0,11
+Kansas,0,12
+Kansas,0,13
+Kansas,0,14
+Kansas,0,15
+Kansas,0,16
+Kansas,0,17
+Kansas,0,18
+Kansas,0,19
+Kansas,0,20
+Kansas,0,21
+Kansas,0,22
+Kansas,0,23
+Kansas,0,24
+Kansas,0,25
+Kansas,0,26
+Kansas,1,27
+Kansas,0,28
+Kansas,0,29
+Kansas,0,30
+Kansas,0,31
+Kansas,0,32
+Kansas,0,33
+Kansas,0,34
+Kansas,0,35
+Kansas,0,36
+Kansas,0,37
+Kansas,0,38
+Kansas,0,39
+Kansas,0,40
+Kansas,0,41
+Kansas,0,42
+Kansas,0,43
+Kansas,0,44
+Kansas,0,45
+Kansas,0,46
+Kansas,0,47
+Kansas,0,48
+Kansas,0,49
+Kansas,0,50
+Kansas,0,51
+Kansas,0,52
+Kentucky,0,1
+Kentucky,0,2
+Kentucky,0,3
+Kentucky,0,4
+Kentucky,0,5
+Kentucky,0,6
+Kentucky,0,7
+Kentucky,0,8
+Kentucky,0,9
+Kentucky,0,10
+Kentucky,0,11
+Kentucky,0,12
+Kentucky,0,13
+Kentucky,0,14
+Kentucky,0,15
+Kentucky,0,16
+Kentucky,0,17
+Kentucky,0,18
+Kentucky,0,19
+Kentucky,0,20
+Kentucky,0,21
+Kentucky,0,22
+Kentucky,0,23
+Kentucky,0,24
+Kentucky,0,25
+Kentucky,0,26
+Kentucky,0,27
+Kentucky,1,28
+Kentucky,0,29
+Kentucky,0,30
+Kentucky,0,31
+Kentucky,0,32
+Kentucky,0,33
+Kentucky,0,34
+Kentucky,0,35
+Kentucky,0,36
+Kentucky,0,37
+Kentucky,0,38
+Kentucky,0,39
+Kentucky,0,40
+Kentucky,0,41
+Kentucky,0,42
+Kentucky,0,43
+Kentucky,0,44
+Kentucky,0,45
+Kentucky,0,46
+Kentucky,0,47
+Kentucky,0,48
+Kentucky,0,49
+Kentucky,0,50
+Kentucky,0,51
+Kentucky,0,52
+Louisiana,0,1
+Louisiana,0,2
+Louisiana,0,3
+Louisiana,0,4
+Louisiana,0,5
+Louisiana,0,6
+Louisiana,0,7
+Louisiana,0,8
+Louisiana,0,9
+Louisiana,0,10
+Louisiana,0,11
+Louisiana,0,12
+Louisiana,0,13
+Louisiana,0,14
+Louisiana,0,15
+Louisiana,0,16
+Louisiana,0,17
+Louisiana,0,18
+Louisiana,0,19
+Louisiana,0,20
+Louisiana,0,21
+Louisiana,0,22
+Louisiana,0,23
+Louisiana,0,24
+Louisiana,0,25
+Louisiana,0,26
+Louisiana,0,27
+Louisiana,1,28
+Louisiana,0,29
+Louisiana,0,30
+Louisiana,0,31
+Louisiana,0,32
+Louisiana,0,33
+Louisiana,0,34
+Louisiana,0,35
+Louisiana,0,36
+Louisiana,0,37
+Louisiana,0,38
+Louisiana,0,39
+Louisiana,0,40
+Louisiana,0,41
+Louisiana,0,42
+Louisiana,0,43
+Louisiana,0,44
+Louisiana,0,45
+Louisiana,0,46
+Louisiana,0,47
+Louisiana,0,48
+Louisiana,0,49
+Louisiana,0,50
+Louisiana,0,51
+Louisiana,0,52
+Maine,0,1
+Maine,0,2
+Maine,0,3
+Maine,0,4
+Maine,0,5
+Maine,0,6
+Maine,0,7
+Maine,0,8
+Maine,0,9
+Maine,0,10
+Maine,0,11
+Maine,0,12
+Maine,0,13
+Maine,0,14
+Maine,0,15
+Maine,0,16
+Maine,0,17
+Maine,1,18
+Maine,0,19
+Maine,0,20
+Maine,0,21
+Maine,0,22
+Maine,0,23
+Maine,0,24
+Maine,0,25
+Maine,0,26
+Maine,0,27
+Maine,0,28
+Maine,0,29
+Maine,0,30
+Maine,0,31
+Maine,0,32
+Maine,0,33
+Maine,0,34
+Maine,0,35
+Maine,0,36
+Maine,0,37
+Maine,0,38
+Maine,0,39
+Maine,0,40
+Maine,0,41
+Maine,0,42
+Maine,0,43
+Maine,0,44
+Maine,0,45
+Maine,0,46
+Maine,0,47
+Maine,0,48
+Maine,0,49
+Maine,0,50
+Maine,0,51
+Maine,0,52
+Maryland,0,1
+Maryland,0,2
+Maryland,0,3
+Maryland,0,4
+Maryland,0,5
+Maryland,0,6
+Maryland,0,7
+Maryland,0,8
+Maryland,0,9
+Maryland,0,10
+Maryland,0,11
+Maryland,0,12
+Maryland,0,13
+Maryland,0,14
+Maryland,0,15
+Maryland,1,16
+Maryland,0,17
+Maryland,0,18
+Maryland,0,19
+Maryland,0,20
+Maryland,0,21
+Maryland,0,22
+Maryland,0,23
+Maryland,0,24
+Maryland,0,25
+Maryland,0,26
+Maryland,0,27
+Maryland,0,28
+Maryland,0,29
+Maryland,0,30
+Maryland,0,31
+Maryland,0,32
+Maryland,0,33
+Maryland,0,34
+Maryland,0,35
+Maryland,0,36
+Maryland,0,37
+Maryland,0,38
+Maryland,0,39
+Maryland,0,40
+Maryland,0,41
+Maryland,0,42
+Maryland,0,43
+Maryland,0,44
+Maryland,0,45
+Maryland,0,46
+Maryland,0,47
+Maryland,0,48
+Maryland,0,49
+Maryland,0,50
+Maryland,0,51
+Maryland,0,52
+Massachusetts,0,1
+Massachusetts,0,2
+Massachusetts,0,3
+Massachusetts,0,4
+Massachusetts,0,5
+Massachusetts,0,6
+Massachusetts,0,7
+Massachusetts,0,8
+Massachusetts,0,9
+Massachusetts,0,10
+Massachusetts,0,11
+Massachusetts,0,12
+Massachusetts,0,13
+Massachusetts,0,14
+Massachusetts,0,15
+Massachusetts,0,16
+Massachusetts,0,17
+Massachusetts,0,18
+Massachusetts,1,19
+Massachusetts,0,20
+Massachusetts,0,21
+Massachusetts,0,22
+Massachusetts,0,23
+Massachusetts,0,24
+Massachusetts,0,25
+Massachusetts,0,26
+Massachusetts,0,27
+Massachusetts,0,28
+Massachusetts,0,29
+Massachusetts,0,30
+Massachusetts,0,31
+Massachusetts,0,32
+Massachusetts,0,33
+Massachusetts,0,34
+Massachusetts,0,35
+Massachusetts,0,36
+Massachusetts,0,37
+Massachusetts,0,38
+Massachusetts,0,39
+Massachusetts,0,40
+Massachusetts,0,41
+Massachusetts,0,42
+Massachusetts,0,43
+Massachusetts,0,44
+Massachusetts,0,45
+Massachusetts,0,46
+Massachusetts,0,47
+Massachusetts,0,48
+Massachusetts,0,49
+Massachusetts,0,50
+Massachusetts,0,51
+Massachusetts,0,52
+Michigan,0,1
+Michigan,0,2
+Michigan,0,3
+Michigan,0,4
+Michigan,0,5
+Michigan,0,6
+Michigan,0,7
+Michigan,0,8
+Michigan,0,9
+Michigan,0,10
+Michigan,0,11
+Michigan,0,12
+Michigan,0,13
+Michigan,0,14
+Michigan,0,15
+Michigan,0,16
+Michigan,0,17
+Michigan,0,18
+Michigan,0,19
+Michigan,0,20
+Michigan,0,21
+Michigan,0,22
+Michigan,0,23
+Michigan,0,24
+Michigan,0,25
+Michigan,0,26
+Michigan,0,27
+Michigan,0,28
+Michigan,0,29
+Michigan,0,30
+Michigan,0,31
+Michigan,0,32
+Michigan,0,33
+Michigan,0,34
+Michigan,0,35
+Michigan,0,36
+Michigan,0,37
+Michigan,0,38
+Michigan,0,39
+Michigan,0,40
+Michigan,1,41
+Michigan,0,42
+Michigan,0,43
+Michigan,0,44
+Michigan,0,45
+Michigan,0,46
+Michigan,0,47
+Michigan,0,48
+Michigan,0,49
+Michigan,0,50
+Michigan,0,51
+Michigan,0,52
+Minnesota,0,1
+Minnesota,0,2
+Minnesota,0,3
+Minnesota,0,4
+Minnesota,0,5
+Minnesota,0,6
+Minnesota,0,7
+Minnesota,0,8
+Minnesota,0,9
+Minnesota,0,10
+Minnesota,0,11
+Minnesota,0,12
+Minnesota,0,13
+Minnesota,0,14
+Minnesota,0,15
+Minnesota,0,16
+Minnesota,0,17
+Minnesota,0,18
+Minnesota,0,19
+Minnesota,0,20
+Minnesota,0,21
+Minnesota,0,22
+Minnesota,0,23
+Minnesota,0,24
+Minnesota,0,25
+Minnesota,0,26
+Minnesota,0,27
+Minnesota,0,28
+Minnesota,0,29
+Minnesota,1,30
+Minnesota,0,31
+Minnesota,0,32
+Minnesota,0,33
+Minnesota,0,34
+Minnesota,0,35
+Minnesota,0,36
+Minnesota,0,37
+Minnesota,0,38
+Minnesota,0,39
+Minnesota,0,40
+Minnesota,0,41
+Minnesota,0,42
+Minnesota,0,43
+Minnesota,0,44
+Minnesota,0,45
+Minnesota,0,46
+Minnesota,0,47
+Minnesota,0,48
+Minnesota,0,49
+Minnesota,0,50
+Minnesota,0,51
+Minnesota,0,52
+Mississippi,0,1
+Mississippi,0,2
+Mississippi,0,3
+Mississippi,0,4
+Mississippi,0,5
+Mississippi,0,6
+Mississippi,0,7
+Mississippi,0,8
+Mississippi,0,9
+Mississippi,0,10
+Mississippi,0,11
+Mississippi,0,12
+Mississippi,0,13
+Mississippi,0,14
+Mississippi,0,15
+Mississippi,0,16
+Mississippi,0,17
+Mississippi,0,18
+Mississippi,0,19
+Mississippi,0,20
+Mississippi,0,21
+Mississippi,0,22
+Mississippi,0,23
+Mississippi,0,24
+Mississippi,0,25
+Mississippi,0,26
+Mississippi,0,27
+Mississippi,0,28
+Mississippi,0,29
+Mississippi,0,30
+Mississippi,0,31
+Mississippi,0,32
+Mississippi,0,33
+Mississippi,0,34
+Mississippi,0,35
+Mississippi,0,36
+Mississippi,0,37
+Mississippi,0,38
+Mississippi,0,39
+Mississippi,0,40
+Mississippi,0,41
+Mississippi,0,42
+Mississippi,0,43
+Mississippi,0,44
+Mississippi,0,45
+Mississippi,0,46
+Mississippi,0,47
+Mississippi,0,48
+Mississippi,0,49
+Mississippi,0,50
+Mississippi,0,51
+Mississippi,0,52
+Missouri,0,1
+Missouri,0,2
+Missouri,0,3
+Missouri,0,4
+Missouri,0,5
+Missouri,0,6
+Missouri,0,7
+Missouri,0,8
+Missouri,0,9
+Missouri,0,10
+Missouri,0,11
+Missouri,0,12
+Missouri,0,13
+Missouri,0,14
+Missouri,0,15
+Missouri,0,16
+Missouri,0,17
+Missouri,0,18
+Missouri,0,19
+Missouri,0,20
+Missouri,0,21
+Missouri,0,22
+Missouri,0,23
+Missouri,0,24
+Missouri,0,25
+Missouri,0,26
+Missouri,0,27
+Missouri,0,28
+Missouri,0,29
+Missouri,0,30
+Missouri,0,31
+Missouri,0,32
+Missouri,0,33
+Missouri,0,34
+Missouri,0,35
+Missouri,0,36
+Missouri,0,37
+Missouri,0,38
+Missouri,0,39
+Missouri,0,40
+Missouri,0,41
+Missouri,0,42
+Missouri,0,43
+Missouri,0,44
+Missouri,0,45
+Missouri,0,46
+Missouri,0,47
+Missouri,0,48
+Missouri,0,49
+Missouri,0,50
+Missouri,0,51
+Missouri,0,52
+Montana,0,1
+Montana,0,2
+Montana,0,3
+Montana,0,4
+Montana,0,5
+Montana,0,6
+Montana,0,7
+Montana,0,8
+Montana,0,9
+Montana,0,10
+Montana,0,11
+Montana,0,12
+Montana,0,13
+Montana,0,14
+Montana,0,15
+Montana,0,16
+Montana,0,17
+Montana,0,18
+Montana,0,19
+Montana,0,20
+Montana,0,21
+Montana,0,22
+Montana,0,23
+Montana,0,24
+Montana,0,25
+Montana,0,26
+Montana,0,27
+Montana,0,28
+Montana,1,29
+Montana,0,30
+Montana,0,31
+Montana,0,32
+Montana,0,33
+Montana,0,34
+Montana,0,35
+Montana,0,36
+Montana,0,37
+Montana,0,38
+Montana,0,39
+Montana,0,40
+Montana,0,41
+Montana,0,42
+Montana,0,43
+Montana,0,44
+Montana,0,45
+Montana,0,46
+Montana,0,47
+Montana,0,48
+Montana,0,49
+Montana,0,50
+Montana,0,51
+Montana,0,52
+Nebraska,0,1
+Nebraska,0,2
+Nebraska,0,3
+Nebraska,0,4
+Nebraska,0,5
+Nebraska,0,6
+Nebraska,0,7
+Nebraska,0,8
+Nebraska,0,9
+Nebraska,0,10
+Nebraska,0,11
+Nebraska,0,12
+Nebraska,0,13
+Nebraska,0,14
+Nebraska,0,15
+Nebraska,0,16
+Nebraska,0,17
+Nebraska,0,18
+Nebraska,0,19
+Nebraska,0,20
+Nebraska,0,21
+Nebraska,0,22
+Nebraska,0,23
+Nebraska,0,24
+Nebraska,0,25
+Nebraska,0,26
+Nebraska,0,27
+Nebraska,0,28
+Nebraska,0,29
+Nebraska,0,30
+Nebraska,0,31
+Nebraska,0,32
+Nebraska,0,33
+Nebraska,0,34
+Nebraska,0,35
+Nebraska,0,36
+Nebraska,0,37
+Nebraska,0,38
+Nebraska,0,39
+Nebraska,0,40
+Nebraska,0,41
+Nebraska,0,42
+Nebraska,0,43
+Nebraska,0,44
+Nebraska,0,45
+Nebraska,0,46
+Nebraska,0,47
+Nebraska,0,48
+Nebraska,0,49
+Nebraska,0,50
+Nebraska,0,51
+Nebraska,0,52
+Nevada,0,1
+Nevada,0,2
+Nevada,0,3
+Nevada,0,4
+Nevada,0,5
+Nevada,0,6
+Nevada,0,7
+Nevada,0,8
+Nevada,0,9
+Nevada,0,10
+Nevada,0,11
+Nevada,0,12
+Nevada,0,13
+Nevada,0,14
+Nevada,0,15
+Nevada,0,16
+Nevada,0,17
+Nevada,0,18
+Nevada,0,19
+Nevada,0,20
+Nevada,0,21
+Nevada,0,22
+Nevada,0,23
+Nevada,0,24
+Nevada,0,25
+Nevada,1,26
+Nevada,0,27
+Nevada,0,28
+Nevada,0,29
+Nevada,0,30
+Nevada,0,31
+Nevada,0,32
+Nevada,0,33
+Nevada,0,34
+Nevada,0,35
+Nevada,0,36
+Nevada,0,37
+Nevada,0,38
+Nevada,0,39
+Nevada,0,40
+Nevada,0,41
+Nevada,0,42
+Nevada,0,43
+Nevada,0,44
+Nevada,0,45
+Nevada,0,46
+Nevada,0,47
+Nevada,0,48
+Nevada,0,49
+Nevada,0,50
+Nevada,0,51
+Nevada,0,52
+New Hampshire,0,1
+New Hampshire,0,2
+New Hampshire,0,3
+New Hampshire,0,4
+New Hampshire,0,5
+New Hampshire,0,6
+New Hampshire,0,7
+New Hampshire,0,8
+New Hampshire,0,9
+New Hampshire,0,10
+New Hampshire,0,11
+New Hampshire,0,12
+New Hampshire,0,13
+New Hampshire,0,14
+New Hampshire,0,15
+New Hampshire,0,16
+New Hampshire,0,17
+New Hampshire,0,18
+New Hampshire,0,19
+New Hampshire,0,20
+New Hampshire,0,21
+New Hampshire,0,22
+New Hampshire,0,23
+New Hampshire,0,24
+New Hampshire,0,25
+New Hampshire,0,26
+New Hampshire,0,27
+New Hampshire,0,28
+New Hampshire,0,29
+New Hampshire,0,30
+New Hampshire,0,31
+New Hampshire,0,32
+New Hampshire,0,33
+New Hampshire,0,34
+New Hampshire,0,35
+New Hampshire,0,36
+New Hampshire,0,37
+New Hampshire,0,38
+New Hampshire,0,39
+New Hampshire,0,40
+New Hampshire,0,41
+New Hampshire,0,42
+New Hampshire,0,43
+New Hampshire,0,44
+New Hampshire,0,45
+New Hampshire,0,46
+New Hampshire,0,47
+New Hampshire,0,48
+New Hampshire,0,49
+New Hampshire,0,50
+New Hampshire,0,51
+New Hampshire,0,52
+New Jersey,0,1
+New Jersey,0,2
+New Jersey,0,3
+New Jersey,0,4
+New Jersey,0,5
+New Jersey,0,6
+New Jersey,0,7
+New Jersey,0,8
+New Jersey,0,9
+New Jersey,0,10
+New Jersey,0,11
+New Jersey,0,12
+New Jersey,0,13
+New Jersey,0,14
+New Jersey,0,15
+New Jersey,0,16
+New Jersey,0,17
+New Jersey,0,18
+New Jersey,0,19
+New Jersey,0,20
+New Jersey,0,21
+New Jersey,0,22
+New Jersey,0,23
+New Jersey,0,24
+New Jersey,0,25
+New Jersey,0,26
+New Jersey,0,27
+New Jersey,1,28
+New Jersey,0,29
+New Jersey,0,30
+New Jersey,0,31
+New Jersey,0,32
+New Jersey,0,33
+New Jersey,0,34
+New Jersey,0,35
+New Jersey,0,36
+New Jersey,0,37
+New Jersey,0,38
+New Jersey,0,39
+New Jersey,0,40
+New Jersey,0,41
+New Jersey,0,42
+New Jersey,0,43
+New Jersey,0,44
+New Jersey,0,45
+New Jersey,0,46
+New Jersey,0,47
+New Jersey,0,48
+New Jersey,0,49
+New Jersey,0,50
+New Jersey,0,51
+New Jersey,0,52
+New Mexico,0,1
+New Mexico,0,2
+New Mexico,0,3
+New Mexico,0,4
+New Mexico,0,5
+New Mexico,0,6
+New Mexico,0,7
+New Mexico,0,8
+New Mexico,0,9
+New Mexico,0,10
+New Mexico,0,11
+New Mexico,0,12
+New Mexico,0,13
+New Mexico,0,14
+New Mexico,0,15
+New Mexico,0,16
+New Mexico,0,17
+New Mexico,0,18
+New Mexico,0,19
+New Mexico,1,20
+New Mexico,0,21
+New Mexico,0,22
+New Mexico,0,23
+New Mexico,0,24
+New Mexico,0,25
+New Mexico,0,26
+New Mexico,0,27
+New Mexico,0,28
+New Mexico,0,29
+New Mexico,0,30
+New Mexico,0,31
+New Mexico,0,32
+New Mexico,0,33
+New Mexico,0,34
+New Mexico,0,35
+New Mexico,0,36
+New Mexico,0,37
+New Mexico,0,38
+New Mexico,0,39
+New Mexico,0,40
+New Mexico,0,41
+New Mexico,0,42
+New Mexico,0,43
+New Mexico,0,44
+New Mexico,0,45
+New Mexico,0,46
+New Mexico,0,47
+New Mexico,0,48
+New Mexico,0,49
+New Mexico,0,50
+New Mexico,0,51
+New Mexico,0,52
+New York,0,1
+New York,0,2
+New York,0,3
+New York,0,4
+New York,0,5
+New York,0,6
+New York,0,7
+New York,0,8
+New York,0,9
+New York,0,10
+New York,0,11
+New York,0,12
+New York,0,13
+New York,0,14
+New York,0,15
+New York,1,16
+New York,0,17
+New York,0,18
+New York,0,19
+New York,0,20
+New York,0,21
+New York,0,22
+New York,0,23
+New York,0,24
+New York,0,25
+New York,0,26
+New York,0,27
+New York,0,28
+New York,0,29
+New York,0,30
+New York,0,31
+New York,0,32
+New York,0,33
+New York,0,34
+New York,0,35
+New York,0,36
+New York,0,37
+New York,0,38
+New York,0,39
+New York,0,40
+New York,0,41
+New York,0,42
+New York,0,43
+New York,0,44
+New York,0,45
+New York,0,46
+New York,0,47
+New York,0,48
+New York,0,49
+New York,0,50
+New York,0,51
+New York,0,52
+North Carolina,0,1
+North Carolina,0,2
+North Carolina,0,3
+North Carolina,0,4
+North Carolina,0,5
+North Carolina,0,6
+North Carolina,0,7
+North Carolina,0,8
+North Carolina,0,9
+North Carolina,0,10
+North Carolina,0,11
+North Carolina,0,12
+North Carolina,0,13
+North Carolina,0,14
+North Carolina,0,15
+North Carolina,0,16
+North Carolina,0,17
+North Carolina,0,18
+North Carolina,0,19
+North Carolina,0,20
+North Carolina,0,21
+North Carolina,0,22
+North Carolina,0,23
+North Carolina,0,24
+North Carolina,0,25
+North Carolina,1,26
+North Carolina,0,27
+North Carolina,0,28
+North Carolina,0,29
+North Carolina,0,30
+North Carolina,0,31
+North Carolina,0,32
+North Carolina,0,33
+North Carolina,0,34
+North Carolina,0,35
+North Carolina,0,36
+North Carolina,0,37
+North Carolina,0,38
+North Carolina,0,39
+North Carolina,0,40
+North Carolina,0,41
+North Carolina,0,42
+North Carolina,0,43
+North Carolina,0,44
+North Carolina,0,45
+North Carolina,0,46
+North Carolina,0,47
+North Carolina,0,48
+North Carolina,0,49
+North Carolina,0,50
+North Carolina,0,51
+North Carolina,0,52
+North Dakota,0,1
+North Dakota,0,2
+North Dakota,0,3
+North Dakota,0,4
+North Dakota,0,5
+North Dakota,0,6
+North Dakota,0,7
+North Dakota,0,8
+North Dakota,0,9
+North Dakota,0,10
+North Dakota,0,11
+North Dakota,0,12
+North Dakota,0,13
+North Dakota,0,14
+North Dakota,0,15
+North Dakota,0,16
+North Dakota,0,17
+North Dakota,0,18
+North Dakota,0,19
+North Dakota,0,20
+North Dakota,0,21
+North Dakota,0,22
+North Dakota,0,23
+North Dakota,0,24
+North Dakota,0,25
+North Dakota,0,26
+North Dakota,0,27
+North Dakota,0,28
+North Dakota,0,29
+North Dakota,0,30
+North Dakota,0,31
+North Dakota,0,32
+North Dakota,0,33
+North Dakota,0,34
+North Dakota,0,35
+North Dakota,0,36
+North Dakota,0,37
+North Dakota,0,38
+North Dakota,0,39
+North Dakota,0,40
+North Dakota,0,41
+North Dakota,0,42
+North Dakota,0,43
+North Dakota,0,44
+North Dakota,0,45
+North Dakota,0,46
+North Dakota,0,47
+North Dakota,0,48
+North Dakota,0,49
+North Dakota,0,50
+North Dakota,0,51
+North Dakota,0,52
+Ohio,0,1
+Ohio,0,2
+Ohio,0,3
+Ohio,0,4
+Ohio,0,5
+Ohio,0,6
+Ohio,0,7
+Ohio,0,8
+Ohio,0,9
+Ohio,0,10
+Ohio,0,11
+Ohio,0,12
+Ohio,0,13
+Ohio,0,14
+Ohio,0,15
+Ohio,0,16
+Ohio,0,17
+Ohio,0,18
+Ohio,0,19
+Ohio,0,20
+Ohio,0,21
+Ohio,0,22
+Ohio,0,23
+Ohio,0,24
+Ohio,0,25
+Ohio,0,26
+Ohio,0,27
+Ohio,0,28
+Ohio,0,29
+Ohio,1,30
+Ohio,0,31
+Ohio,0,32
+Ohio,0,33
+Ohio,0,34
+Ohio,0,35
+Ohio,0,36
+Ohio,0,37
+Ohio,0,38
+Ohio,0,39
+Ohio,0,40
+Ohio,0,41
+Ohio,0,42
+Ohio,0,43
+Ohio,0,44
+Ohio,0,45
+Ohio,0,46
+Ohio,0,47
+Ohio,0,48
+Ohio,0,49
+Ohio,0,50
+Ohio,0,51
+Ohio,0,52
+Oklahoma,0,1
+Oklahoma,0,2
+Oklahoma,0,3
+Oklahoma,0,4
+Oklahoma,0,5
+Oklahoma,0,6
+Oklahoma,0,7
+Oklahoma,0,8
+Oklahoma,0,9
+Oklahoma,0,10
+Oklahoma,0,11
+Oklahoma,0,12
+Oklahoma,0,13
+Oklahoma,0,14
+Oklahoma,0,15
+Oklahoma,0,16
+Oklahoma,0,17
+Oklahoma,0,18
+Oklahoma,0,19
+Oklahoma,0,20
+Oklahoma,0,21
+Oklahoma,0,22
+Oklahoma,0,23
+Oklahoma,0,24
+Oklahoma,0,25
+Oklahoma,0,26
+Oklahoma,0,27
+Oklahoma,0,28
+Oklahoma,0,29
+Oklahoma,0,30
+Oklahoma,0,31
+Oklahoma,0,32
+Oklahoma,0,33
+Oklahoma,0,34
+Oklahoma,0,35
+Oklahoma,0,36
+Oklahoma,0,37
+Oklahoma,0,38
+Oklahoma,0,39
+Oklahoma,0,40
+Oklahoma,0,41
+Oklahoma,0,42
+Oklahoma,0,43
+Oklahoma,0,44
+Oklahoma,0,45
+Oklahoma,0,46
+Oklahoma,0,47
+Oklahoma,0,48
+Oklahoma,0,49
+Oklahoma,0,50
+Oklahoma,0,51
+Oklahoma,0,52
+Oregon,0,1
+Oregon,0,2
+Oregon,0,3
+Oregon,0,4
+Oregon,0,5
+Oregon,0,6
+Oregon,0,7
+Oregon,0,8
+Oregon,0,9
+Oregon,0,10
+Oregon,0,11
+Oregon,0,12
+Oregon,0,13
+Oregon,0,14
+Oregon,0,15
+Oregon,0,16
+Oregon,0,17
+Oregon,0,18
+Oregon,0,19
+Oregon,0,20
+Oregon,0,21
+Oregon,0,22
+Oregon,0,23
+Oregon,0,24
+Oregon,0,25
+Oregon,0,26
+Oregon,1,27
+Oregon,0,28
+Oregon,0,29
+Oregon,0,30
+Oregon,0,31
+Oregon,0,32
+Oregon,0,33
+Oregon,0,34
+Oregon,0,35
+Oregon,0,36
+Oregon,0,37
+Oregon,0,38
+Oregon,0,39
+Oregon,0,40
+Oregon,0,41
+Oregon,0,42
+Oregon,0,43
+Oregon,0,44
+Oregon,0,45
+Oregon,0,46
+Oregon,0,47
+Oregon,0,48
+Oregon,0,49
+Oregon,0,50
+Oregon,0,51
+Oregon,0,52
+Pennsylvania,0,1
+Pennsylvania,0,2
+Pennsylvania,0,3
+Pennsylvania,0,4
+Pennsylvania,0,5
+Pennsylvania,0,6
+Pennsylvania,0,7
+Pennsylvania,0,8
+Pennsylvania,0,9
+Pennsylvania,0,10
+Pennsylvania,0,11
+Pennsylvania,0,12
+Pennsylvania,0,13
+Pennsylvania,0,14
+Pennsylvania,0,15
+Pennsylvania,0,16
+Pennsylvania,0,17
+Pennsylvania,0,18
+Pennsylvania,0,19
+Pennsylvania,0,20
+Pennsylvania,0,21
+Pennsylvania,0,22
+Pennsylvania,0,23
+Pennsylvania,0,24
+Pennsylvania,0,25
+Pennsylvania,0,26
+Pennsylvania,1,27
+Pennsylvania,0,28
+Pennsylvania,0,29
+Pennsylvania,0,30
+Pennsylvania,0,31
+Pennsylvania,0,32
+Pennsylvania,0,33
+Pennsylvania,0,34
+Pennsylvania,0,35
+Pennsylvania,0,36
+Pennsylvania,0,37
+Pennsylvania,0,38
+Pennsylvania,0,39
+Pennsylvania,0,40
+Pennsylvania,0,41
+Pennsylvania,0,42
+Pennsylvania,0,43
+Pennsylvania,0,44
+Pennsylvania,0,45
+Pennsylvania,0,46
+Pennsylvania,0,47
+Pennsylvania,0,48
+Pennsylvania,0,49
+Pennsylvania,0,50
+Pennsylvania,0,51
+Pennsylvania,0,52
+Rhode Island,0,1
+Rhode Island,0,2
+Rhode Island,0,3
+Rhode Island,0,4
+Rhode Island,0,5
+Rhode Island,0,6
+Rhode Island,0,7
+Rhode Island,0,8
+Rhode Island,0,9
+Rhode Island,0,10
+Rhode Island,0,11
+Rhode Island,0,12
+Rhode Island,0,13
+Rhode Island,0,14
+Rhode Island,0,15
+Rhode Island,0,16
+Rhode Island,0,17
+Rhode Island,0,18
+Rhode Island,1,19
+Rhode Island,0,20
+Rhode Island,0,21
+Rhode Island,0,22
+Rhode Island,0,23
+Rhode Island,0,24
+Rhode Island,0,25
+Rhode Island,0,26
+Rhode Island,0,27
+Rhode Island,0,28
+Rhode Island,0,29
+Rhode Island,0,30
+Rhode Island,0,31
+Rhode Island,0,32
+Rhode Island,0,33
+Rhode Island,0,34
+Rhode Island,0,35
+Rhode Island,0,36
+Rhode Island,0,37
+Rhode Island,0,38
+Rhode Island,0,39
+Rhode Island,0,40
+Rhode Island,0,41
+Rhode Island,0,42
+Rhode Island,0,43
+Rhode Island,0,44
+Rhode Island,0,45
+Rhode Island,0,46
+Rhode Island,0,47
+Rhode Island,0,48
+Rhode Island,0,49
+Rhode Island,0,50
+Rhode Island,0,51
+Rhode Island,0,52
+South Carolina,0,1
+South Carolina,0,2
+South Carolina,0,3
+South Carolina,0,4
+South Carolina,0,5
+South Carolina,0,6
+South Carolina,0,7
+South Carolina,0,8
+South Carolina,0,9
+South Carolina,0,10
+South Carolina,0,11
+South Carolina,0,12
+South Carolina,0,13
+South Carolina,0,14
+South Carolina,0,15
+South Carolina,0,16
+South Carolina,0,17
+South Carolina,0,18
+South Carolina,0,19
+South Carolina,0,20
+South Carolina,0,21
+South Carolina,0,22
+South Carolina,0,23
+South Carolina,0,24
+South Carolina,0,25
+South Carolina,0,26
+South Carolina,0,27
+South Carolina,0,28
+South Carolina,0,29
+South Carolina,0,30
+South Carolina,0,31
+South Carolina,0,32
+South Carolina,0,33
+South Carolina,0,34
+South Carolina,0,35
+South Carolina,0,36
+South Carolina,0,37
+South Carolina,0,38
+South Carolina,0,39
+South Carolina,0,40
+South Carolina,0,41
+South Carolina,0,42
+South Carolina,0,43
+South Carolina,0,44
+South Carolina,0,45
+South Carolina,0,46
+South Carolina,0,47
+South Carolina,0,48
+South Carolina,0,49
+South Carolina,0,50
+South Carolina,0,51
+South Carolina,0,52
+South Dakota,0,1
+South Dakota,0,2
+South Dakota,0,3
+South Dakota,0,4
+South Dakota,0,5
+South Dakota,0,6
+South Dakota,0,7
+South Dakota,0,8
+South Dakota,0,9
+South Dakota,0,10
+South Dakota,0,11
+South Dakota,0,12
+South Dakota,0,13
+South Dakota,0,14
+South Dakota,0,15
+South Dakota,0,16
+South Dakota,0,17
+South Dakota,0,18
+South Dakota,0,19
+South Dakota,0,20
+South Dakota,0,21
+South Dakota,0,22
+South Dakota,0,23
+South Dakota,0,24
+South Dakota,0,25
+South Dakota,0,26
+South Dakota,0,27
+South Dakota,0,28
+South Dakota,0,29
+South Dakota,0,30
+South Dakota,0,31
+South Dakota,0,32
+South Dakota,0,33
+South Dakota,0,34
+South Dakota,0,35
+South Dakota,0,36
+South Dakota,0,37
+South Dakota,0,38
+South Dakota,0,39
+South Dakota,0,40
+South Dakota,0,41
+South Dakota,0,42
+South Dakota,0,43
+South Dakota,0,44
+South Dakota,0,45
+South Dakota,0,46
+South Dakota,0,47
+South Dakota,0,48
+South Dakota,0,49
+South Dakota,0,50
+South Dakota,0,51
+South Dakota,0,52
+Tennessee,0,1
+Tennessee,0,2
+Tennessee,0,3
+Tennessee,0,4
+Tennessee,0,5
+Tennessee,0,6
+Tennessee,0,7
+Tennessee,0,8
+Tennessee,0,9
+Tennessee,0,10
+Tennessee,0,11
+Tennessee,0,12
+Tennessee,0,13
+Tennessee,0,14
+Tennessee,0,15
+Tennessee,0,16
+Tennessee,0,17
+Tennessee,0,18
+Tennessee,0,19
+Tennessee,0,20
+Tennessee,0,21
+Tennessee,0,22
+Tennessee,0,23
+Tennessee,0,24
+Tennessee,0,25
+Tennessee,0,26
+Tennessee,0,27
+Tennessee,0,28
+Tennessee,0,29
+Tennessee,0,30
+Tennessee,0,31
+Tennessee,0,32
+Tennessee,0,33
+Tennessee,0,34
+Tennessee,0,35
+Tennessee,0,36
+Tennessee,0,37
+Tennessee,0,38
+Tennessee,0,39
+Tennessee,0,40
+Tennessee,0,41
+Tennessee,0,42
+Tennessee,0,43
+Tennessee,0,44
+Tennessee,0,45
+Tennessee,0,46
+Tennessee,0,47
+Tennessee,0,48
+Tennessee,0,49
+Tennessee,0,50
+Tennessee,0,51
+Tennessee,0,52
+Texas,0,1
+Texas,0,2
+Texas,0,3
+Texas,0,4
+Texas,0,5
+Texas,0,6
+Texas,0,7
+Texas,0,8
+Texas,0,9
+Texas,0,10
+Texas,0,11
+Texas,0,12
+Texas,0,13
+Texas,0,14
+Texas,0,15
+Texas,0,16
+Texas,0,17
+Texas,0,18
+Texas,0,19
+Texas,0,20
+Texas,0,21
+Texas,0,22
+Texas,0,23
+Texas,0,24
+Texas,0,25
+Texas,0,26
+Texas,1,27
+Texas,0,28
+Texas,0,29
+Texas,0,30
+Texas,0,31
+Texas,0,32
+Texas,0,33
+Texas,0,34
+Texas,0,35
+Texas,0,36
+Texas,0,37
+Texas,0,38
+Texas,0,39
+Texas,0,40
+Texas,0,41
+Texas,0,42
+Texas,0,43
+Texas,0,44
+Texas,0,45
+Texas,0,46
+Texas,0,47
+Texas,0,48
+Texas,0,49
+Texas,0,50
+Texas,0,51
+Texas,0,52
+Utah,0,1
+Utah,0,2
+Utah,0,3
+Utah,0,4
+Utah,0,5
+Utah,0,6
+Utah,0,7
+Utah,0,8
+Utah,0,9
+Utah,0,10
+Utah,0,11
+Utah,0,12
+Utah,0,13
+Utah,0,14
+Utah,0,15
+Utah,0,16
+Utah,0,17
+Utah,0,18
+Utah,0,19
+Utah,0,20
+Utah,0,21
+Utah,0,22
+Utah,0,23
+Utah,0,24
+Utah,0,25
+Utah,0,26
+Utah,0,27
+Utah,0,28
+Utah,0,29
+Utah,0,30
+Utah,0,31
+Utah,0,32
+Utah,0,33
+Utah,0,34
+Utah,0,35
+Utah,0,36
+Utah,0,37
+Utah,0,38
+Utah,0,39
+Utah,0,40
+Utah,0,41
+Utah,0,42
+Utah,0,43
+Utah,0,44
+Utah,0,45
+Utah,1,46
+Utah,0,47
+Utah,0,48
+Utah,0,49
+Utah,0,50
+Utah,0,51
+Utah,0,52
+Vermont,0,1
+Vermont,0,2
+Vermont,0,3
+Vermont,0,4
+Vermont,0,5
+Vermont,0,6
+Vermont,0,7
+Vermont,0,8
+Vermont,0,9
+Vermont,0,10
+Vermont,0,11
+Vermont,0,12
+Vermont,0,13
+Vermont,0,14
+Vermont,0,15
+Vermont,0,16
+Vermont,0,17
+Vermont,0,18
+Vermont,0,19
+Vermont,0,20
+Vermont,0,21
+Vermont,0,22
+Vermont,0,23
+Vermont,0,24
+Vermont,0,25
+Vermont,0,26
+Vermont,0,27
+Vermont,0,28
+Vermont,0,29
+Vermont,0,30
+Vermont,1,31
+Vermont,0,32
+Vermont,0,33
+Vermont,0,34
+Vermont,0,35
+Vermont,0,36
+Vermont,0,37
+Vermont,0,38
+Vermont,0,39
+Vermont,0,40
+Vermont,0,41
+Vermont,0,42
+Vermont,0,43
+Vermont,0,44
+Vermont,0,45
+Vermont,0,46
+Vermont,0,47
+Vermont,0,48
+Vermont,0,49
+Vermont,0,50
+Vermont,0,51
+Vermont,0,52
+Virginia,0,1
+Virginia,0,2
+Virginia,0,3
+Virginia,0,4
+Virginia,0,5
+Virginia,0,6
+Virginia,0,7
+Virginia,0,8
+Virginia,0,9
+Virginia,0,10
+Virginia,0,11
+Virginia,0,12
+Virginia,0,13
+Virginia,0,14
+Virginia,0,15
+Virginia,0,16
+Virginia,0,17
+Virginia,0,18
+Virginia,0,19
+Virginia,0,20
+Virginia,0,21
+Virginia,1,22
+Virginia,0,23
+Virginia,0,24
+Virginia,0,25
+Virginia,0,26
+Virginia,0,27
+Virginia,0,28
+Virginia,0,29
+Virginia,0,30
+Virginia,0,31
+Virginia,0,32
+Virginia,0,33
+Virginia,0,34
+Virginia,0,35
+Virginia,0,36
+Virginia,0,37
+Virginia,0,38
+Virginia,0,39
+Virginia,0,40
+Virginia,0,41
+Virginia,0,42
+Virginia,0,43
+Virginia,0,44
+Virginia,0,45
+Virginia,0,46
+Virginia,0,47
+Virginia,0,48
+Virginia,0,49
+Virginia,0,50
+Virginia,0,51
+Virginia,0,52
+Washington,0,1
+Washington,0,2
+Washington,0,3
+Washington,0,4
+Washington,0,5
+Washington,0,6
+Washington,0,7
+Washington,0,8
+Washington,0,9
+Washington,0,10
+Washington,0,11
+Washington,0,12
+Washington,0,13
+Washington,0,14
+Washington,0,15
+Washington,0,16
+Washington,0,17
+Washington,0,18
+Washington,0,19
+Washington,0,20
+Washington,0,21
+Washington,0,22
+Washington,0,23
+Washington,0,24
+Washington,0,25
+Washington,1,26
+Washington,0,27
+Washington,0,28
+Washington,0,29
+Washington,0,30
+Washington,0,31
+Washington,0,32
+Washington,0,33
+Washington,0,34
+Washington,0,35
+Washington,0,36
+Washington,0,37
+Washington,0,38
+Washington,0,39
+Washington,0,40
+Washington,0,41
+Washington,0,42
+Washington,0,43
+Washington,0,44
+Washington,0,45
+Washington,0,46
+Washington,0,47
+Washington,0,48
+Washington,0,49
+Washington,0,50
+Washington,0,51
+Washington,0,52
+West Virginia,0,1
+West Virginia,0,2
+West Virginia,0,3
+West Virginia,0,4
+West Virginia,0,5
+West Virginia,0,6
+West Virginia,0,7
+West Virginia,0,8
+West Virginia,0,9
+West Virginia,0,10
+West Virginia,0,11
+West Virginia,0,12
+West Virginia,0,13
+West Virginia,0,14
+West Virginia,0,15
+West Virginia,0,16
+West Virginia,0,17
+West Virginia,0,18
+West Virginia,0,19
+West Virginia,0,20
+West Virginia,0,21
+West Virginia,0,22
+West Virginia,0,23
+West Virginia,0,24
+West Virginia,0,25
+West Virginia,0,26
+West Virginia,0,27
+West Virginia,1,28
+West Virginia,0,29
+West Virginia,0,30
+West Virginia,0,31
+West Virginia,0,32
+West Virginia,0,33
+West Virginia,0,34
+West Virginia,0,35
+West Virginia,0,36
+West Virginia,0,37
+West Virginia,0,38
+West Virginia,0,39
+West Virginia,0,40
+West Virginia,0,41
+West Virginia,0,42
+West Virginia,0,43
+West Virginia,0,44
+West Virginia,0,45
+West Virginia,0,46
+West Virginia,0,47
+West Virginia,0,48
+West Virginia,0,49
+West Virginia,0,50
+West Virginia,0,51
+West Virginia,0,52
+Wisconsin,0,1
+Wisconsin,0,2
+Wisconsin,0,3
+Wisconsin,0,4
+Wisconsin,0,5
+Wisconsin,0,6
+Wisconsin,0,7
+Wisconsin,0,8
+Wisconsin,0,9
+Wisconsin,0,10
+Wisconsin,0,11
+Wisconsin,0,12
+Wisconsin,0,13
+Wisconsin,0,14
+Wisconsin,0,15
+Wisconsin,0,16
+Wisconsin,0,17
+Wisconsin,0,18
+Wisconsin,0,19
+Wisconsin,0,20
+Wisconsin,0,21
+Wisconsin,0,22
+Wisconsin,0,23
+Wisconsin,0,24
+Wisconsin,0,25
+Wisconsin,0,26
+Wisconsin,0,27
+Wisconsin,0,28
+Wisconsin,0,29
+Wisconsin,0,30
+Wisconsin,1,31
+Wisconsin,0,32
+Wisconsin,0,33
+Wisconsin,0,34
+Wisconsin,0,35
+Wisconsin,0,36
+Wisconsin,0,37
+Wisconsin,0,38
+Wisconsin,0,39
+Wisconsin,0,40
+Wisconsin,0,41
+Wisconsin,0,42
+Wisconsin,0,43
+Wisconsin,0,44
+Wisconsin,0,45
+Wisconsin,0,46
+Wisconsin,0,47
+Wisconsin,0,48
+Wisconsin,0,49
+Wisconsin,0,50
+Wisconsin,0,51
+Wisconsin,0,52
+Wyoming,0,1
+Wyoming,0,2
+Wyoming,0,3
+Wyoming,0,4
+Wyoming,0,5
+Wyoming,0,6
+Wyoming,0,7
+Wyoming,0,8
+Wyoming,0,9
+Wyoming,0,10
+Wyoming,0,11
+Wyoming,0,12
+Wyoming,0,13
+Wyoming,0,14
+Wyoming,0,15
+Wyoming,0,16
+Wyoming,0,17
+Wyoming,0,18
+Wyoming,0,19
+Wyoming,0,20
+Wyoming,0,21
+Wyoming,0,22
+Wyoming,0,23
+Wyoming,0,24
+Wyoming,0,25
+Wyoming,0,26
+Wyoming,0,27
+Wyoming,0,28
+Wyoming,0,29
+Wyoming,0,30
+Wyoming,0,31
+Wyoming,0,32
+Wyoming,0,33
+Wyoming,0,34
+Wyoming,0,35
+Wyoming,0,36
+Wyoming,0,37
+Wyoming,0,38
+Wyoming,0,39
+Wyoming,0,40
+Wyoming,0,41
+Wyoming,0,42
+Wyoming,0,43
+Wyoming,0,44
+Wyoming,0,45
+Wyoming,0,46
+Wyoming,0,47
+Wyoming,0,48
+Wyoming,0,49
+Wyoming,0,50
+Wyoming,0,51
+Wyoming,0,52
